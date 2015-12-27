@@ -1,0 +1,376 @@
+$start: $scene_04_begin;
+
+#wire4 {
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 4;
+    stroke-dasharray: 6000;
+    stroke-dashoffset: 0;
+    stroke-opacity: 0.7;
+    -skrollr-animation-name: wire4;
+}
+
+@-skrollr-keyframes wire4 {
+    #{$start - 385} {
+        stroke-dashoffset: 6000;
+    }
+    #{$start + 1000} {
+        stroke-dashoffset: 0;
+    }
+}
+#scene4 {
+    #bg {
+        -skrollr-animation-name: bg;
+    }
+    @-skrollr-keyframes bg {
+        #{$start} {
+            opacity: 0;
+        }
+        #{$start + 160} {
+            opacity: 0;
+        }
+        #{$start + 200} {
+            opacity: 1;
+        }
+        #{$start + 350} {
+            opacity: 1;
+        }
+        #{$start + 390} {
+            opacity: 0;
+        }
+    }
+
+    #scene {
+        #iphone05 {
+            -webkit-transition: transform 2s linear;
+            transition: transform 2s linear;
+        }
+    }
+
+    #fg {
+        -skrollr-animation-name: fgg;
+    }
+    @-skrollr-keyframes fgg {
+        #{$start} {
+            opacity: 0;
+        }
+        #{$start + 160} {
+            opacity: 0;
+        }
+        #{$start + 200} {
+            opacity: 0.4;
+        }
+        #{$start + 350} {
+            opacity: 0.4;
+        }
+        #{$start + 390} {
+            opacity: 0;
+        }
+    }
+
+    #title {
+        -skrollr-animation-name: s4-title;
+    }
+    @-skrollr-keyframes s4-title {
+        #{$start - 240} {
+            opacity: 0;
+            transform#{"[swing]"}: translate(0px, 50px);
+        }
+        #{$start - 200} {
+            opacity: 1;
+            transform#{"[swing]"}: translate(0px, 60px);
+        }
+    }
+
+    #desks {
+        -skrollr-animation-name: desks;
+        #employee {
+            -skrollr-animation-name: employee;
+        }
+        #entrepeneur {
+            -skrollr-animation-name: entrepeneur;
+        }
+        #freelance {
+            -skrollr-animation-name: freelance;
+        }
+    }
+    @-skrollr-keyframes desks {
+        #{$start + 400} {
+            transform: translate(0px, 0px) scale(1);
+        }
+    }
+
+    #clients {
+        #hem {
+            -skrollr-animation-name: hem;
+        }
+        #citi {
+            -skrollr-animation-name: citi;
+        }
+        #zeus {
+            -skrollr-animation-name: zeus;
+        }
+    }
+    @-skrollr-keyframes zeus {
+        #{$start + 100} {
+            transform: translate(-3000px, -8000px) scale(16);
+            opacity: 0;
+        }
+        #{$start + 150} {
+            transform: translate(0px, 0px) scale(1);
+            opacity: 1;
+        }
+    }
+
+    @-skrollr-keyframes hem {
+        #{$start + 140} {
+            transform: translate(0px, 1000px);
+            opacity: 0;
+        }
+        #{$start + 210} {
+            transform: translate(0px, 0px);
+            opacity: 1;
+        }
+    }
+
+    @-skrollr-keyframes citi {
+        #{$start + 260} {
+            transform: translate(-3000px, -8000px) scale(16);
+            opacity: 0;
+        }
+        #{$start + 310} {
+            transform: translate(0px, 0px) scale(1);
+            opacity: 1;
+        }
+    }
+
+    #mouse04 {
+        -skrollr-animation-name: mouse04;
+    }
+    $mousestart: $start - 200;
+    @-skrollr-keyframes mouse04 {
+        #{$mousestart} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 50} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 100} {
+            transform: rotate(2deg);
+        }
+        #{$mousestart + 150} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 200} {
+            transform: rotate(0deg);
+        }
+        #{$mousestart + 250} {
+            transform: rotate(0deg);
+        }
+        #{$mousestart + 300} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 350} {
+            transform: rotate(-2deg);
+        }
+        #{$mousestart + 500} {
+            transform: rotate(-2deg);
+        }
+        #{$mousestart + 550} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 750} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 800} {
+            transform: rotate(2deg);
+        }
+        #{$mousestart + 850} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 950} {
+            transform: rotate(0deg);
+        }
+    }
+
+
+
+   #mouse04-1 {
+        -skrollr-animation-name: mouse04-1;
+    }
+
+    @-skrollr-keyframes mouse04-1 {
+        #{$mousestart} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 50} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 100} {
+            transform: rotate(2deg);
+        }
+        #{$mousestart + 150} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 200} {
+            transform: rotate(0deg);
+        }
+        #{$mousestart + 250} {
+            transform: rotate(0deg);
+        }
+        #{$mousestart + 300} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 350} {
+            transform: rotate(-2deg);
+        }
+        #{$mousestart + 500} {
+            transform: rotate(-2deg);
+        }
+        #{$mousestart + 550} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 750} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 800} {
+            transform: rotate(2deg);
+        }
+        #{$mousestart + 850} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 950} {
+            transform: rotate(0deg);
+        }
+    }
+
+
+
+
+   #mouse04-2 {
+        -skrollr-animation-name: mouse04-2;
+    }
+
+    @-skrollr-keyframes mouse04-2 {
+        #{$mousestart} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 50} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 100} {
+            transform: rotate(2deg);
+        }
+        #{$mousestart + 150} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 200} {
+            transform: rotate(0deg);
+        }
+        #{$mousestart + 250} {
+            transform: rotate(0deg);
+        }
+        #{$mousestart + 300} {
+            transform: rotate(-1deg);
+        }
+        #{$mousestart + 350} {
+            transform: rotate(-2deg);
+        }
+        #{$mousestart + 500} {
+            transform: rotate(-2deg);
+        }
+        #{$mousestart + 550} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 750} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 800} {
+            transform: rotate(2deg);
+        }
+        #{$mousestart + 850} {
+            transform: rotate(1deg);
+        }
+        #{$mousestart + 950} {
+            transform: rotate(0deg);
+        }
+    }
+
+    @-skrollr-keyframes employee {
+        #{$start + 400} {
+            opacity: 0;
+        }
+        #{$start + 450} {
+            opacity: 1;
+        }
+        #{$start + 900} {
+            opacity: 1;
+        }
+        #{$start + 950} {
+            opacity: 0;
+        }
+    }
+
+    @-skrollr-keyframes entrepeneur {
+        #{$start + 900} {
+            opacity: 0;
+        }
+        #{$start + 950} {
+            opacity: 1;
+        }
+    }
+
+    @-skrollr-keyframes freelance {
+        #{$start + 400} {
+            opacity: 1;
+        }
+        #{$start + 450} {
+            opacity: 0;
+        }
+    }
+
+    #deskleft {
+        -skrollr-animation-name: deskleft;
+    }
+    @-skrollr-keyframes deskleft {
+        #{$start + 400} {
+            opacity: 0;
+            transform: translate(-500px, 0px);
+        }
+        #{$start + 450} {
+            opacity: 1;
+            transform: translate(0px, 0px);
+        }
+        #{$start + 900} {
+            opacity: 1;
+            transform: translate(0px, 0px);
+        }
+        #{$start + 950} {
+            opacity: 0;
+            transform: translate(-500px, 0px);
+        }
+    }
+
+    #deskright {
+        -skrollr-animation-name: deskright;
+    }
+    @-skrollr-keyframes deskright {
+        #{$start + 400} {
+            opacity: 0;
+            transform: translate(500px, 0px);
+        }
+        #{$start + 450} {
+            opacity: 1;
+            transform: translate(0px, 0px);
+        }
+        #{$start + 900} {
+            opacity: 1;
+            transform: translate(0px, 0px);
+        }
+        #{$start + 950} {
+            opacity: 0;
+            transform: translate(500px, 0px);
+        }
+    }
+}
