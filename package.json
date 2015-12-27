@@ -1,16 +1,17 @@
 {
   "name": "parthsuthar",
   "version": "1.2.0",
-  "homepage": "https://github.com/albinotonnina/albinotonnina.com",
+  "homepage": "https://github.com/parth103/parthsuthar",
   "author": {
-    "name": "Albino Tonnina",
-    "email": "albinotonnina@gmail.com",
-    "url": "http://www.albinotonnina.com"
+    "name": "Parth Suthar",
+    "email": "pvs1403@gmail.com",
+    "url": "http://www.myfuncode.com"
   },
   "main": "web.js",
   "dependencies": {
     "logfmt": "^1.0.0",
-    "express": "^3.5.0"
+    "express": "^3.5.0",
+    "bower": "0.6.x"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -42,5 +43,8 @@
   },
   "engines": {
     "node": ">=0.8.0"
+  },
+  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install"
   }
 }
