@@ -272,6 +272,7 @@ h1 {
 }
 .list section {
     border-bottom: 1px solid #151D29;
+    margin-bottom: 10px;
     font-size: small;
     margin-left: 1em;
 }

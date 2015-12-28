@@ -72,7 +72,7 @@
   4000 {
     top: 0%; }
 
-  5500 {
+  4500 {
     top: 0%; } }
 
 nav {
@@ -117,15 +117,15 @@ nav {
       transform: scale(0.75, 1);
       fill: rgba(43, 172, 181, 0.99); }
 
-    5700 {
+    4700 {
       transform: scale(1, 1);
       fill: rgba(43, 172, 181, 0.99); }
 
-    5720 {
+    4720 {
       transform: scale(1.15, 1);
       fill: rgba(43, 172, 181, 0.99); }
 
-    6000 {
+    5000 {
       transform: scale(4, 1);
       fill: rgba(43, 172, 181, 0.99); } }
 
@@ -161,13 +161,13 @@ nav {
     3720 {
       fill: rgba(43, 172, 181, 0.99); }
 
-    5700 {
+    4700 {
       fill: rgba(43, 172, 181, 0.99); }
 
-    5720 {
+    4720 {
       fill: rgba(43, 172, 181, 0.99); }
 
-    6000 {
+    5000 {
       fill: rgba(43, 172, 181, 0.99); } }
 
   @-skrollr-keyframes barcenter {
@@ -195,13 +195,13 @@ nav {
     3720 {
       fill: rgba(34, 144, 152, 0.99); }
 
-    5700 {
+    4700 {
       fill: rgba(34, 144, 152, 0.99); }
 
-    5720 {
+    4720 {
       fill: rgba(34, 144, 152, 0.99); }
 
-    6000 {
+    5000 {
       fill: rgba(34, 144, 152, 0.99); } }
 
   @-skrollr-keyframes barright {
@@ -229,13 +229,13 @@ nav {
     3720 {
       fill: rgba(34, 144, 152, 0.99); }
 
-    5700 {
+    4700 {
       fill: rgba(34, 144, 152, 0.99); }
 
-    5720 {
+    4720 {
       fill: rgba(34, 144, 152, 0.99); }
 
-    6000 {
+    5000 {
       fill: rgba(34, 144, 152, 0.99); } }
  }
   nav #bgmenu {
@@ -2001,73 +2001,21 @@ nav {
       opacity: 0;
       fill: #2bacb5; } }
 
-  @-skrollr-keyframes london {
-    5000 {
-      transform: translate(10px, -10px); }
-
-    5300 {
-      transform: translate(-100px, -250px); }
-
-    5700 {
-      transform: translate(-250px, -250px); } }
-
-  @-skrollr-keyframes planebig {
-    4900 {
-      transform: translate(50px, 10px); }
-
-    5600 {
-      transform: translate(3000px, 200px); }
-
-    5800 {
-      transform: translate(8000px, 400px); } }
-
-  @-skrollr-keyframes june {
-    4790 {
-      opacity: 0;
-      display: none; }
-
-    4800 {
-      opacity: 0;
-      display: block; }
-
-    4900 {
-      opacity: 1; }
-
-    5200 {
-      opacity: 1; }
-
-    5250 {
-      opacity: 0; } }
-
   @-skrollr-keyframes thankyou {
-    5200 {
+    4900 {
       opacity: 0; }
 
-    5250 {
+    4950 {
       opacity: 1; } }
 
   @-skrollr-keyframes contacts {
-    5800 {
+    4950 {
       transform: translate(0, 100px);
       opacity: 0; }
 
-    5850 {
+    5000 {
       transform: translate(0, 1px);
       opacity: 1; } }
-
-  @-skrollr-keyframes sketchshare {
-    6800 {
-      opacity: 0; }
-
-    6900 {
-      opacity: 1; } }
-
-  @-skrollr-keyframes rightside {
-    6800 {
-      opacity: 1; }
-
-    6900 {
-      opacity: 0; } }
 
   @-skrollr-keyframes sky {
     4300 {
@@ -2099,15 +2047,6 @@ nav {
       opacity: 0;
       transform: translate(100px, 30px); } }
 
-  @-skrollr-keyframes plane {
-    4300 {
-      transform: translate(-2600px, 0px);
-      opacity: 1; }
-
-    4800 {
-      transform: translate(2600px, -600px);
-      opacity: 1; } }
-
   @-skrollr-keyframes mountains {
     4300 {
       transform: translate(-200px, 0px);
@@ -2124,28 +2063,11 @@ nav {
     4750 {
       transform: translate(-200px, 0px);
       opacity: 0; } }
-
-  @-skrollr-keyframes torre {
-    4200 {
-      transform: translate(-1200px, 0px) scale(1);
-      opacity: 1; }
-
-    4300 {
-      transform: translate(-10px, 10px) scale(0.7);
-      opacity: 1; }
-
-    4750 {
-      transform: translate(-10px, 10px) scale(0.7);
-      opacity: 1; }
-
-    4800 {
-      transform: translate(-300px, 0px) scale(1);
-      opacity: 0; } }
  }
   #scene5 #email, #scene5 #linkedin, #scene5 #skype, #scene5 #numidia, #scene5 #l500px, #scene5 #numidia, #scene5 #addressnumidia, #scene5 #phone, #scene5 #contactresume, #scene5 #githubsite, #scene5 #sketchshare, #scene5 #junetext, #scene5 #worksharelogo {
     cursor: pointer;
     transition-duration: 500ms; }
-  #scene5 #email:hover text, #scene5 #linkedin:hover text, #scene5 #skype:hover text, #scene5 #numidia:hover text, #scene5 #l500px:hover text, #scene5 #numidia:hover text, #scene5 #addressnumidia:hover tspan, #scene5 #phone:hover text, #scene5 #contactresume:hover text, #scene5 #githubsite:hover text, #scene5 #sketchshare:hover text, #scene5 #junetext:hover text {
+  #scene5 #email:hover text, #scene5 #linkedin:hover text, #scene5 #skype:hover text, #scene5 #numidia:hover text, #scene5 #l500px:hover text, #scene5 #numidia:hover text, #scene5 #addressnumidia:hover tspan, #scene5 #phone:hover text, #scene5 #contactresume:hover text, #scene5 #githubsite:hover text, #scene5 #sketchshare:hover text {
     fill: rgba(44, 62, 80, 0.99); }
   #scene5 #passionate {
     -skrollr-animation-name: passionate; }
@@ -2153,27 +2075,13 @@ nav {
     -skrollr-animation-name: ownership; }
   #scene5 #leaving text {
     -skrollr-animation-name: leaving; }
-  #scene5 #london {
-    -skrollr-animation-name: london; }
-  #scene5 #planebig {
-    -skrollr-animation-name: planebig; }
-  #scene5 #junetext {
-    -skrollr-animation-name: june; }
   #scene5 #thankyouforscrolling {
     -skrollr-animation-name: thankyou; }
   #scene5 #contacts {
     -skrollr-animation-name: contacts; }
-  #scene5 #sketchshare {
-    -skrollr-animation-name: sketchshare; }
-  #scene5 #rightside {
-    -skrollr-animation-name: rightside; }
   #scene5 #sky {
     -skrollr-animation-name: sky; }
   #scene5 #clouds {
     -skrollr-animation-name: clouds; }
-  #scene5 #plane {
-    -skrollr-animation-name: plane; }
   #scene5 #mountains {
     -skrollr-animation-name: mountains; }
-  #scene5 #torre {
-    -skrollr-animation-name: torre; }
