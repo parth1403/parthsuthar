@@ -10547,10 +10547,6 @@ Site.afterPrint = function() {};
 Site.hide = function(soft) {
 	Site.isHidden = true;
 	$('figure[role=site]').hide('400', function() {
-		$('html,body').css('overflow-y', 'scroll');
-		$('body').css('height', 'auto').removeClass('this').addClass('myresume');
-		$('body > div').fadeIn();
-
 		if (!soft) {
 			Site.skrollr.destroy();
 			$('html, body').animate({
@@ -10559,8 +10555,9 @@ Site.hide = function(soft) {
 
 		}
 
-
-
+		$('html,body').css('overflow-y', 'scroll');
+		$('body').css('height', 'auto').removeClass('this').addClass('myresume');
+		$('body > div').fadeIn();
 	});
 };
 Site.show = function(callback) {
