@@ -10412,7 +10412,9 @@ Site.clickEvents = function() {
 
 //http://stackoverflow.com/questions/5680013/how-to-be-notified-once-a-web-font-has-loaded
 Site.waitForWebfonts = function(fonts, callback) {
-	var loadedFonts = 0;
+	var loadedFonts = 0,
+		maxTryLimit = 10,
+		tryCount	= 0;
 
 	function doNode(font) {
 		var node = document.createElement('span');
@@ -10445,12 +10447,13 @@ Site.waitForWebfonts = function(fonts, callback) {
 				node.parentNode.removeChild(node);
 				node = null;
 			}
+			tryCount++;
 			// If all fonts have been loaded
-			if (loadedFonts >= fonts.length) {
+			if (loadedFonts >= fonts.length || tryCount > maxTryLimit) {
 				if (interval) {
 					clearInterval(interval);
 				}
-				if (loadedFonts === fonts.length) {
+				if (loadedFonts === fonts.length || tryCount > maxTryLimit) {
 					callback();
 					return true;
 				}
