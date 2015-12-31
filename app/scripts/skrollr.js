@@ -9,10 +9,6 @@
   * Alexander Prinzhorn - https://github.com/Prinzhorn/skrollr
   *
   * Free to use under terms of MIT license
-  *
-  *
-  * Attention, I modified this file. Albino.
-  *
   */
  (function(document, window) {
  	'use strict';

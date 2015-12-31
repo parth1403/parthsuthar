@@ -1,6 +1,3 @@
-/* 
-	www.albinotonnina.com
- */
 'use strict';
 
 
@@ -212,9 +209,6 @@ Site.clickEvents = function() {
 	});
 	$('#skype').bind('click', function() {
 		window.open('skype:pvs1403');
-	});
-	$('#l500px').bind('click', function() {
-		window.open('http://500px.com/albinotonnina', '_blank');
 	});
 	$('#contactresume').bind('click', function() {
 		Site.hide();

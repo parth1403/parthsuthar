@@ -415,34 +415,29 @@
 	</g>
 </g>
 <g id="tblock1">
-	<path fill="#3498DB" d="M9.253,126.877h257.071v132.785H9.253V126.877z"/>
+	<path fill="#3498DB" d="M9.253 126.877h257.071v110.785h-257.071v-132.785z"/>
 	<path fill="#3498DB" d="M312.5,194.5l-48,13v-24L312.5,194.5z"/>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 17.2954 248.2461)" fill="#ECF0F1" font-weight="300" font-size="18">Web applications</text>
-			<text transform="matrix(1 0 0 1 67.7349 248.2461)" fill="#ECF0F1" font-family="'ArialHebrew-Light'" font-size="21"> </text>
+			<text transform="matrix(1 0 0 1 17.2954 224.2461)" fill="#ECF0F1" font-weight="300" font-size="18">Web applications</text>
 		</g>
 		<text transform="matrix(1 0 0 1 16.6812 200.6123)" fill="#ECF0F1" font-weight="300" font-size="18">OO JavaScript</text>
 		<g>
 			<text transform="matrix(1 0 0 1 17.0908 176.7949)" fill="#ECF0F1" font-weight="300" font-size="18">UX and Design thinking</text>
-			<text transform="matrix(1 0 0 1 17.5 152.9785)" fill="#ECF0F1" font-weight="300" font-size="18">Front-End development </text>
+			<text transform="matrix(1 0 0 1 17.5 152.9785)" fill="#ECF0F1" font-weight="300" font-size="18">Front-End development</text>
 			<text transform="matrix(1 0 0 1 53.0781 176.9785)" fill="#ECF0F1" font-family="'ArialHebrew-Light'" font-size="21"> </text>
 			<text transform="matrix(1 0 0 1 92.5332 176.9785)" fill="#ECF0F1" font-family="'ArialHebrew-Light'" font-size="21"> </text>
 			<text transform="matrix(1 0 0 1 159.4971 176.9785)" fill="#ECF0F1" font-family="'ArialHebrew-Light'" font-size="21"> </text>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 16.8857 224.4287)" fill="#ECF0F1" font-weight="300" font-size="18">E-learning platforms</text>
-			<text transform="matrix(1 0 0 1 117.1089 224.4893)" fill="#ECF0F1" font-family="'ArialHebrew-Light'" font-size="21"> </text>
-		</g>
 	</g>
 </g>
 <g id="tblock2">
-	<path fill="#3498DB" d="M735.113,95.586h257.067v132.785H735.113V95.586z"/>
+	<path fill="#3498DB" d="M735.113 120.586h257.067v105.785h-257.067v-132.785z"/>
 	<path fill="#3498DB" d="M864.648,261.001l-13-48h24L864.648,261.001z"/>
-	<text transform="matrix(1 0 0 1 745.8848 120.9629)" fill="#ECF0F1" font-weight="300" font-size="18">Mobile Applications</text>
+	<text transform="matrix(1 0 0 1 745.8848 144.054)" fill="#ECF0F1" font-weight="300" font-size="18">Mobile Applications</text>
 	<text transform="matrix(1 0 0 1 745.8848 190.2339)" fill="#ECF0F1" font-weight="300" font-size="18">Responsive Web Design</text>
-	<text transform="matrix(1 0 0 1 745.8848 144.0537)" fill="#ECF0F1" font-weight="300" font-size="18">CMS and Frameworks</text>
-	<text transform="matrix(1 0 0 1 745.8848 213.3247)" fill="#ECF0F1" font-weight="300" font-size="18">Image editing skills</text>
+	<!-- <text transform="matrix(1 0 0 1 745.8848 144.0537)" fill="#ECF0F1" font-weight="300" font-size="18">CMS and Frameworks</text> -->
+	<text transform="matrix(1 0 0 1 745.8848 213.3247)" fill="#ECF0F1" font-weight="300" font-size="18">E-Learning Development</text>
 	<text transform="matrix(1 0 0 1 745.8848 167.144)" fill="#ECF0F1" font-weight="300" font-size="18">E-Commerce Development</text>
 </g>
 <g id="tblock3">

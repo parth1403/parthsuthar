@@ -474,12 +474,12 @@
 	c-24.848,19.438-63.131,23.733-93.296,18.285c-23.029-4.158-54.48-18.821-50.92-47.17c3.484-27.736,35.848-41.749,60.459-42.558
 	c160.405-4.848,98.403,92.7,99.736,160.618c2.337,44.505,1.884,83.611-8.983,126.969c-10.855,43.306-31.548,74.358-33.691,120.287
 	c-0.26,5.572-0.444,5.535-0.158,11.015"/>
-<g id="skill01">
+<!-- <g id="skill01">
 	<g>
 		<circle fill="#FFFFFF" cx="392.728" cy="75.225" r="15.104"/>
 		<text transform="matrix(1 0 0 1 375.6284 54)" fill="#FFFFFF" font-weight="400" font-size="18.0063">PHP</text>
 	</g>
-</g>
+</g> -->
 <g id="skill02">
 	<g>
 		<text transform="matrix(1 0 0 1 508.1523 54)" fill="#FFFFFF" font-weight="400" font-size="18.0063">HTML5</text>
@@ -488,13 +488,13 @@
 </g>
 <g id="skill03">
 	<g>
-		<text transform="matrix(1 0 0 1 646.582 54)" fill="#FFFFFF" font-weight="400" font-size="18.0063">jQuery / JavaScript libraries</text>
+		<text transform="matrix(1 0 0 1 646.582 54)" fill="#FFFFFF" font-weight="400" font-size="18.0063">jQuery / Javascript libraries</text>
 		<circle fill="#FFFFFF" cx="750.15" cy="75.986" r="17.385"/>
 	</g>
 </g>
 <g id="skill12">
 	<g>
-		<text transform="matrix(1 0 0 1 398.4229 416.793)" fill="#FFFFFF" font-weight="400" font-size="18.0063">ActionScript</text>
+		<text transform="matrix(1 0 0 1 400 416.793)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Git, SVN</text>
 		<circle fill="#FFFFFF" cx="382.009" cy="409.73" r="10.213"/>
 	</g>
 </g>
@@ -506,19 +506,19 @@
 </g>
 <g id="skill18">
 	<g>
-		<text transform="matrix(1 0 0 1 400.4229 612.8066)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Drupal/Joomla/Smarty</text>
+		<text transform="matrix(1 0 0 1 400 612.8066)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Google Analytics</text>
 		<circle fill="#FFFFFF" cx="382.009" cy="606.962" r="8"/>
 	</g>
 </g>
 <g id="skill13">
 	<g>
 		<circle fill="#FFFFFF" cx="382.422" cy="441.73" r="7.746"/>
-		<text transform="matrix(1 0 0 1 397.4229 446.7305)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Code Igniter</text>
+		<text transform="matrix(1 0 0 1 400 446.7305)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Jenkins</text>
 	</g>
 </g>
 <g id="skill10">
 	<g>
-		<text transform="matrix(1 0 0 1 408.4229 333.7314)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Twitter/Facebook API</text>
+		<text transform="matrix(1 0 0 1 408.4229 333.7314)" fill="#FFFFFF" font-weight="400" font-size="18.0063">JIRA</text>
 		<circle fill="#FFFFFF" cx="382.422" cy="326.731" r="14.449"/>
 	</g>
 </g>
@@ -536,79 +536,79 @@
 </g>
 <g id="skill06">
 	<g>
-		<text transform="matrix(1 0 0 1 684.0898 186.5781)" fill="#FFFFFF" font-weight="400" font-size="18.0063">MySQL/SQLite</text>
+		<text transform="matrix(1 0 0 1 644.0898 186.5781)" fill="#FFFFFF" font-weight="400" font-size="18.0063">ExtJS / Sencha Touch</text>
 		<circle fill="#FFFFFF" cx="738.15" cy="204.911" r="11"/>
 	</g>
 </g>
 <g id="skill14">
 	<g>
-		<text transform="matrix(1 0 0 1 400.4229 476.7305)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Magento / OpenCart</text>
+		<text transform="matrix(1 0 0 1 400 476.7305)" fill="#FFFFFF" font-weight="400" font-size="18.0063">MySql</text>
 		<circle fill="#FFFFFF" cx="382.009" cy="471.626" r="8"/>
 	</g>
 </g>
 <g id="skill15">
 	<g>
-		<text transform="matrix(1 0 0 1 401.4219 509.416)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Version Control</text>
+		<text transform="matrix(1 0 0 1 400 509.416)" fill="#FFFFFF" font-weight="400" font-size="18.0063">PHP</text>
 		<circle fill="#FFFFFF" cx="382.628" cy="502.73" r="8"/>
 	</g>
 </g>
 <g id="skill16">
 	<g>
-		<text transform="matrix(1 0 0 1 400.7275 543.416)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Ext JS</text>
+		<text transform="matrix(1 0 0 1 400 543.416)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Linux</text>
 		<circle fill="#FFFFFF" cx="381.628" cy="537.73" r="8"/>
 	</g>
 </g>
 <g id="skill17">
 	<g>
-		<text transform="matrix(1 0 0 1 401.4219 576.6543)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Docebo/Moodle</text>
+		<text transform="matrix(1 0 0 1 400 576.6543)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Java</text>
 		<circle fill="#FFFFFF" cx="382.009" cy="570.839" r="8"/>
 	</g>
 </g>
 <g id="skill22">
 	<g>
-		<text transform="matrix(1 0 0 1 684.0898 469.8018)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Unit testing</text>
+		<text transform="matrix(1 0 0 1 685.0898 469.8018)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Ruby / Rails</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="798.449" cy="465.731" r="8"/>
 	</g>
 </g>
 <g id="skill23">
 	<g>
-		<text transform="matrix(1 0 0 1 846.8359 470.7314)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Ruby / Rails</text>
+		<text transform="matrix(1 0 0 1 845.8359 470.7314)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Unit Testing</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="959.529" cy="465.731" r="8"/>
 	</g>
 </g>
 <g id="skill21">
 	<g>
-		<text transform="matrix(1 0 0 1 724.0898 512.8018)" fill="#FFFFFF" font-weight="400" font-size="18.0063">NoSQL</text>
+		<text transform="matrix(1 0 0 1 742.0898 512.8018)" fill="#FFFFFF" font-weight="400" font-size="18.0063">D3.js</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="798.449" cy="505.731" r="8"/>
 	</g>
 </g>
 <g id="skill24">
 	<g>
-		<text transform="matrix(1 0 0 1 842.4463 512.0635)" fill="#FFFFFF" font-weight="400" font-size="18.0063">CoffeeScript</text>
+		<text transform="matrix(1 0 0 1 841.4463 512.0635)" fill="#FFFFFF" font-weight="400" font-size="18.0063">CoffeeScript</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="956.473" cy="506.802" r="8"/>
 	</g>
 </g>
 <g id="skill20">
 	<g>
-		<text transform="matrix(1 0 0 1 719.0898 552.8018)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Node.js</text>
+		<text transform="matrix(1 0 0 1 712.09 552.8018)" fill="#FFFFFF" font-weight="400" font-size="18.0063">React JS</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="798.449" cy="545.731" r="8"/>
 	</g>
 </g>
 <g id="skill25">
 	<g>
-		<text transform="matrix(1 0 0 1 903.1826 556.0645)" fill="#FFFFFF" font-weight="400" font-size="18.0063">D3.js</text>
+		<text transform="matrix(1 0 0 1 893.1826 556.0645)" fill="#FFFFFF" font-weight="400" font-size="18.0063">NoSql</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="958.059" cy="551.731" r="8"/>
 	</g>
 </g>
 <g id="skill26">
 	<g>
-		<text transform="matrix(1 0 0 1 857.7568 602.4688)" fill="#FFFFFF" font-weight="400" font-size="18.0063">AngularJS</text>
+		<text transform="matrix(1 0 0 1 889.7568 602.4688)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Spring</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="956.473" cy="596.63" r="8"/>
 	</g>
 </g>
 <g id="skill19">
 	<g>
-		<text transform="matrix(1 0 0 1 630.0898 593.6299)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Agile methodology</text>
+		<text transform="matrix(1 0 0 1 695.0898 593.6299)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Angular JS</text>
 		<circle fill="#44C650" stroke="#FFFFFF" stroke-miterlimit="10" cx="798.449" cy="588.63" r="8"/>
 	</g>
 </g>
@@ -620,16 +620,14 @@
 </g>
 <g id="skill05">
 	<g>
-		<text transform="matrix(1 0 0 1 869.4229 199.5)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Wordpress</text>
+		<text transform="matrix(1 0 0 1 869.4229 199.5)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Yeoman</text>
 		<circle fill="#FFFFFF" cx="847.27" cy="194.807" r="16.589"/>
-		<text transform="matrix(1 0 0 1 868.1826 216.0957)" fill="#FFFFFF" font-weight="400" font-size="18.0063">(super advanced!)</text>
 	</g>
 </g>
 <g id="skill07">
 	<g>
-		<text transform="matrix(1 0 0 1 496.0938 238.0898)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Appcelerator Titanium </text>
+		<text transform="matrix(1 0 0 1 550.094 238.0898)" fill="#FFFFFF" font-weight="400" font-size="18.0063">Node.js</text>
 		<circle fill="#FFFFFF" cx="580.346" cy="204.911" r="11.589"/>
-		<text transform="matrix(1 0 0 1 507.0088 255.166)" fill="#FFFFFF" font-weight="400" font-size="18.0063">(certified developer)</text>
 	</g>
 </g>
 <g id="interested">
