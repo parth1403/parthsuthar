@@ -202,6 +202,7 @@ MOBILE:Main
 }
 .main p {
     font-weight: 400;
+    margin: 5px 0;
 }
 .main article h1 {
     font-size: 2em;
@@ -209,6 +210,9 @@ MOBILE:Main
 .main aside {
     color: white;
     padding: 0px 5% 10px;
+}
+.main aside p{
+    margin: 10px 0;
 }
 .print_only {
     display: none;

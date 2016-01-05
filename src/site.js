@@ -202,7 +202,7 @@ Site.clickEvents = function() {
 		window.open('mailto:pvs1403@gmail.com');
 	});
 	$('#linkedin').bind('click', function() {
-		window.open('https://in.linkedin.com/in/parth-suthar-5a44b519', '_blank');
+		window.open('https://goo.gl/Ncvhio', '_blank');
 	});
 	$('#phone').bind('click', function() {
 		window.open('tel:+919158884969');
@@ -214,7 +214,7 @@ Site.clickEvents = function() {
 		Site.hide();
 	});
 	$('#githubsite').bind('click', function() {
-		window.open('https://github.com/parth1403', '_blank');
+		window.open('https://goo.gl/gqK0ix', '_blank');
 	});
 	$('#worksharelogo,#junetext').bind('click', function() {
 		window.open('http://www.workshare.com', '_blank');

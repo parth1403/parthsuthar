@@ -335,7 +335,8 @@ module.exports = function(grunt) {
                         'images/{,*/}*.webp',
                         'scripts/*.js',
                         '{,*/}*.html',
-                        'styles/fonts/{,*/}*.*'
+                        'styles/fonts/{,*/}*.*',
+                        '{,*/}*.pdf',
                     ]
                 }, {
                     src: 'src/svg/timing.json',

@@ -235,7 +235,7 @@
 		</g>
 	</g>
 	<text transform="matrix(1 0 0 1 26.6038 402.7188)" fill="#F5ECD9" font-family="'Roboto-Thin'" font-size="36">To stay connected:</text>
-	<g id="sketchshare">
+	<g id="sketchshare" style="display:none">
 		<g>
 			<text transform="matrix(1 0 0 1 500.6331 489.2832)" fill="#F5ECD9" font-family="'Roboto-Thin'" font-size="36">Have you tried</text>
 		</g>
